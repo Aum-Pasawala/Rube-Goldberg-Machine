@@ -1,15 +1,14 @@
 <h1>Rube Goldberg Machine</h1>
 
 <h2>Description</h2>
-Utilized Autodesk Fusion360 CAD program to create parts and assembly for an innovative, more sustainable product idea. The product idea is the EcoTowel, which is a reusable paper towel dispenser that uses UV light technology to clean the towel once it is fed back into
-the dispenser. After the models and assembly were created, engineering drawings and a bill of materials were produced as well. 
+Built a Rube Goldberg machine with 10 unique steps, all components designed for 3D printing. The project applied DFM principles, including material selection, geometric dimensioning and tolerancing (GD&T), and design for assembly (DFA) to ensure efficient manufacturing and assembly. I utilized various techniques learned in the lab, such as injection molding and CNC machining, to produce precise and functional parts. This hands-on project helped me understand how theoretical DFM concepts are applied in real-world design and manufacturing.
 <br />
 
 
 <h2>Programs</h2>
 
 - <b>Fusion360</b> 
-- <b>aPriori</b>
+- <b>XCura</b>
 
 
 <h2>Project Details</h2>
